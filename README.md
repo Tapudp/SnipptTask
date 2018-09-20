@@ -1,2 +1,0 @@
-# SnipptTask
-Created with CodeSandbox
